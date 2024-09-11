@@ -1,0 +1,37 @@
+sadrzaj:
+
+- vazno
+- manje vazno
+- dodatno
+
+
+--------------------
+vazno:
+- baner ne ide skroz do desne strane kada je u ful skrinu
+da - "object-fit-contain" staviti na slike
+- meni: "pica": podstavke; "sendvici": podstavke()
+da 1. slika baner da se ne ponavlja
+da 3. mob- insta kartica da je sa leve strane ispod sm velicine
+da(sa flex-om uradjeno) 6. cena na karticama da je dole desno svuda
+- da se naziv u nav-u uvelica malo kad je :hover
+
+
+
+
+
+
+
+
+--------------------
+manje vazno:
+- tranzition na kartica:hover i na kartica prekomenija zelenog
+1. Neka lepa poruka: Prijatno(lepim fontom, pisanim) ili slicno
+
+4. naslov nekog odeljka na koji nas je vodeo link je ispod nav-a posle skrol-a
+
+--------------------
+dodatno:
+
+5. meni sa strane, fixed, telefon, adresa i sl i kada se klikne iskacu informacije za kliknutu ikonicu, taj meni bolje dole desno da stoji
+
+8. pozadina za picu, sendvice i slicno da su drugacije, prelaz gradacija?
