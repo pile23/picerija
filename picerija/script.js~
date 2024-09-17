@@ -1,0 +1,9 @@
+// script
+
+const dropdownItemDodaciZaPice = document.getElementById("dropdown-item-dodaci-za-pice");
+dropdownItemDodaciZaPice.addEventListener("click", () => {
+  dropdownItemDodaciZaPice.className += " border-primary";
+  setTimeout(() => {
+    dropdownItemDodaciZaPice.replace
+  })
+});
