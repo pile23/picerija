@@ -1,0 +1,39 @@
+
+sadrzaj:
+- legenda
+- vazno
+- manje vazno
+- dodatno
+
+--------------------
+legenda:		
+- (- da) = (da -)
+
+--------------------
+vazno:
+-da baner ne ide skroz do desne strane kada je u ful skrinu
+da - sadrzaj na sredinu		
+problem -  da se naziv u nav-u uvelica malo kad je :hover
+da - prebaciti fon i insta u nav
+da - "object-fit-contain" staviti na slike
+da - meni: "pica": podstavke; "sendvici": podstavke
+-da slika baner da se ne ponavlja
+-da mob- insta kartica da je sa leve strane ispod sm velicine
+-da(sa flex-om uradjeno) cena na karticama da je dole desno svuda
+
+
+
+--------------------
+manje vazno:
+- navbar font lepsi
+- autoclose navbar menu
+-#problem telefon i insta slicica vire desno kada se suzava viewport, malo posle toga se meni pretvori kakav treba da je za sm uredjaje
+- "dodaci" su kartice, kad se klikne iz nava link da se od kartice border drzi plavo kratko da bi korisnik lakse uocio na koju karticu treba da gleda jer ce da budu poredjane u grid. Uraditi to efikasno sa jednom funkcijom koja svim elementima u nizu(html collection) posavlja event listener na klik pa se element sa istim id kao sto je kliknut linkov href, zasvetli(border).
+- tranzition na kartica:hover i na kartica prekomenija zelenog
+- Neka lepa poruka: Prijatno(lepim fontom, pisanim) ili slicno
+- naslov nekog odeljka na koji nas je vodeo link je ispod nav-a posle skrol-a
+
+--------------------
+dodatno:
+5. meni sa strane, fixed, telefon, adresa i sl i kada se klikne iskacu informacije za kliknutu ikonicu, taj meni bolje dole desno da stoji
+8. pozadina za picu, sendvice i slicno da su drugacije, prelaz gradacija?
