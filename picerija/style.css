@@ -83,7 +83,9 @@ nav {
     #navbarNav a:hover {
 	background-color: #C8B4FF;
 	padding-left: 10px;	
-
+    }
+    #banner {
+    background-size: auto;
     }
     
 }
