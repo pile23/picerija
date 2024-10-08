@@ -1,1 +1,1 @@
-Some html, bootstrap and node webapps
+Website mainly of bootstrap
